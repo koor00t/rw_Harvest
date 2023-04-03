@@ -2,5 +2,7 @@
 src = 'src'
 out = 'out'
 libs = ['lib']
+eth_rpc_url = "https://lively-multi-emerald.discover.quiknode.pro/b762ab03160fdd88b89a91efe6ace4307e9e6243/"
+fork_block_number = 11128720
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
